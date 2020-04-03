@@ -170,9 +170,6 @@ function req(n) {
     //   success: function(data) {}
     // });
   }
-  if (da[param] != undefined) {
-    console.log(da[param]);
-  }
 
   $("#myModal").modal("show");
   $("#modalbody").html("");
